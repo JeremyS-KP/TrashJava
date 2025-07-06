@@ -32,6 +32,6 @@ The intrigue of this program arose as a result of an observation that I made whe
 ## How To Run
 1. Make sure you have Java installed  (JDK 17+ ideally)
 2. Download TrashImplementation.jar from this repository
-3. Open Terminal/command prompt and run
-    ex. cd (directory)
-    ->    Java -jar TrashImplementation.jar
+3. Open Terminal/command prompt and run by doing the following:
+    type cd (the directory which you saved TrashImplementation to)
+    then type,    Java -jar TrashImplementation.jar
