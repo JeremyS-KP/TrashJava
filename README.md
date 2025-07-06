@@ -1,6 +1,6 @@
 # Trash Card Game
 
-Welcome to Trash! Trash is a playing card game where a standard deck of 52 cards without jokers is used. Up to 2 players can play.
+Welcome to Trash! Trash is a playing card game where a standard deck of 52 cards without jokers is used. In this implementation there are 2 players.
 
 ## Game Setup
 
@@ -29,9 +29,15 @@ It is also important to note that in this program for simplicity's sake, wilds a
 
 The intrigue of this program arose as a result of an observation that I made when playing Trash: the game takes us humans a substantial amount of time to play whilst requiring minimal card-playing strategy.
 
+## My Approach
+
+This project took me roughly 3 months of sporadic efforts to put together entirely, and there were certainly points where I found myself frustrated and confused with errors within the code, often times relating to infinite while loops and recursion along with some boolean-related logical errors. This lead me to make the outputs far more descriptive as it prints the state of datastructures and logic flow at the beginning and end of each turn, which quickly identified my mistakes. After overcoming the initial errors that I encountered (subsequent to building the structure of my program such as objects and flow of logic ex. recursion/while loops to navigate varying iterations the game may cycle through ) I finally had completed a Trash algorithm that I was proud to show to my friends, family, and prospective employers. However there was one issue: in an effort to make sure I was not biting off more than I could chew, I initially decided to write the program that did not include wild cards. This worked out for me in the beginning, but as I re-ran my code numerous times it had occured to me that I had stopped just short of my personal expectation of completion. With this challenge staring at me point-blank I decided to backup my prior working trash algorithm and put my head down so I could implement wild cards to hold true to the game of cards that I would play with my friends and family. I approached this issue in the same way I learned to approach the last, be descriptive with each instruction and keep an eye on pesky boolean-related logical errors to avoid the dreaded infinite loops and recursion. At last I had properly implemented wild cards into my working trash algorithm and have finally met that sought after expectation of completion.
+
 ## How To Run
 1. Make sure you have Java installed  (JDK 17+ ideally)
 2. Download TrashImplementation.jar from this repository
 3. Open Terminal/command prompt and run by doing the following:
     type cd (the directory which you saved TrashImplementation to)
     then type,    Java -jar TrashImplementation.jar
+
+
