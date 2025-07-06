@@ -1,0 +1,2614 @@
+        Player 1 has 10 cards
+        Player 2 has 10 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+the king of diamonds was drawn from the deck
+the king of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+There are 31 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+the 2 of diamonds was drawn from the deck
+the 2 of diamonds was needed
+The 2 of diamonds now occupies the spot of card number 2
+the card that was displaced by the 2 of diamonds was the queen of hearts
+the queen of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+There are 30 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+the 8 of diamonds was drawn from the deck
+the 8 of diamonds was needed
+The 8 of diamonds now occupies the spot of card number 8
+the card that was displaced by the 8 of diamonds was the 2 of clubs
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the king of hearts
+the king of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7, 9, 10]
+There are 29 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+
+the 8 of spades was drawn from the deck
+the 8 of spades was needed
+The 8 of spades now occupies the spot of card number 8
+the card that was displaced by the 8 of spades was the queen of spades
+the queen of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7, 9, 10]
+There are 28 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7, 9, 10]
+
+the 5 of spades was drawn from the deck
+the 5 of spades was needed
+The 5 of spades now occupies the spot of card number 5
+the card that was displaced by the 5 of spades was the 10 of hearts
+the 10 of hearts was needed
+The 10 of hearts now occupies the spot of card number 10
+the card that was displaced by the 10 of hearts was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 1
+the card that was displaced by the jack of hearts was the 4 of hearts
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the king of spades
+the king of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 6, 7, 9]
+There are 27 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7, 9, 10]
+
+the ace of spades was drawn from the deck
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 3
+the card that was displaced by the jack of spades was the king of clubs
+the king of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6, 7, 9, 10]
+There are 26 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 6, 7, 9]
+
+the 4 of clubs was drawn from the deck
+the 4 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 6, 7, 9]
+There are 25 cards in the deck
+There are 7 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6, 7, 9, 10]
+
+the 4 of clubs was drawn from the discard pile
+the 4 of clubs was needed
+The 4 of clubs now occupies the spot of card number 4
+the card that was displaced by the 4 of clubs was the ace of diamonds
+the ace of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [3, 5, 6, 7, 9, 10]
+There are 25 cards in the deck
+There are 7 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 6, 7, 9]
+
+the ace of diamonds was drawn from the discard pile
+the ace of diamonds was needed
+The ace of diamonds now occupies the spot of card number 1
+the card that was displaced by the ace of diamonds was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 3
+the card that was displaced by the jack of hearts was the 9 of clubs
+the 9 of clubs was needed
+The 9 of clubs now occupies the spot of card number 9
+the card that was displaced by the 9 of clubs was the 3 of hearts
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 6
+the card that was displaced by the jack of hearts was the 10 of clubs
+the 10 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [6, 7]
+There are 25 cards in the deck
+There are 7 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 5, 6, 7, 9, 10]
+
+the 10 of clubs was drawn from the discard pile
+the 10 of clubs was needed
+The 10 of clubs now occupies the spot of card number 10
+the card that was displaced by the 10 of clubs was the queen of clubs
+the queen of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [3, 5, 6, 7, 9]
+There are 25 cards in the deck
+There are 7 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [6, 7]
+
+the 9 of hearts was drawn from the deck
+the 9 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [6, 7]
+There are 24 cards in the deck
+There are 8 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 5, 6, 7, 9]
+
+the 9 of hearts was drawn from the discard pile
+the 9 of hearts was needed
+The 9 of hearts now occupies the spot of card number 9
+the card that was displaced by the 9 of hearts was the 3 of spades
+the 3 of spades was needed
+The 3 of spades now occupies the spot of card number 3
+the card that was displaced by the 3 of spades was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 5
+the card that was displaced by the jack of spades was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 6
+the card that was displaced by the jack of spades was the 5 of hearts
+the 5 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [6, 7]
+There are 24 cards in the deck
+There are 8 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [6, 7]
+
+the 6 of hearts was drawn from the deck
+the 6 of hearts was needed
+The 6 of hearts now occupies the spot of card number 6
+the card that was displaced by the 6 of hearts was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 7
+the card that was displaced by the jack of hearts was the ace of clubs
+the ace of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [7]
+There are 23 cards in the deck
+There are 9 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [6, 7]
+
+the 10 of diamonds was drawn from the deck
+the 10 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [6, 7]
+There are 22 cards in the deck
+There are 10 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [7]
+
+the 7 of diamonds was drawn from the deck
+the 7 of diamonds was needed
+The 7 of diamonds now occupies the spot of card number 7
+the card that was displaced by the 7 of diamonds was the jack of hearts
+the jack of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 21 cards in the deck
+There are 11 card(s) in the discard pile
+|---------------|
+
+
+Player 1 Wins this hand
+
+        Player 1 has 9 cards
+        Player 2 has 10 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the 4 of clubs was drawn from the deck
+the 4 of clubs was needed
+The 4 of clubs now occupies the spot of card number 4
+the card that was displaced by the 4 of clubs was the 4 of hearts
+the 4 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 5, 6, 7, 8, 9]
+There are 32 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+the 4 of hearts was drawn from the discard pile
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the 4 of clubs
+the 4 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 3, 5, 6, 7, 8, 9, 10]
+There are 32 cards in the deck
+There are 1 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 5, 6, 7, 8, 9]
+
+the ace of spades was drawn from the deck
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the ace of diamonds
+the ace of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 3, 5, 6, 7, 8, 9]
+There are 31 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 5, 6, 7, 8, 9, 10]
+
+the ace of diamonds was drawn from the discard pile
+the ace of diamonds was needed
+The ace of diamonds now occupies the spot of card number 1
+the card that was displaced by the ace of diamonds was the ace of spades
+the ace of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 3, 5, 6, 7, 8, 9, 10]
+There are 31 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 3, 5, 6, 7, 8, 9]
+
+the 7 of spades was drawn from the deck
+the 7 of spades was needed
+The 7 of spades now occupies the spot of card number 7
+the card that was displaced by the 7 of spades was the 7 of diamonds
+the 7 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 3, 5, 6, 8, 9]
+There are 30 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2, 3, 5, 6, 7, 8, 9, 10]
+
+the 7 of diamonds was drawn from the discard pile
+the 7 of diamonds was needed
+The 7 of diamonds now occupies the spot of card number 7
+the card that was displaced by the 7 of diamonds was the 8 of hearts
+the 8 of hearts was needed
+The 8 of hearts now occupies the spot of card number 8
+the card that was displaced by the 8 of hearts was the 8 of spades
+the 8 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 3, 5, 6, 9, 10]
+There are 30 cards in the deck
+There are 3 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 3, 5, 6, 8, 9]
+
+the 8 of spades was drawn from the discard pile
+the 8 of spades was needed
+The 8 of spades now occupies the spot of card number 8
+the card that was displaced by the 8 of spades was the 8 of diamonds
+the 8 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 3, 5, 6, 9]
+There are 30 cards in the deck
+There are 3 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2, 3, 5, 6, 9, 10]
+
+the 6 of spades was drawn from the deck
+the 6 of spades was needed
+The 6 of spades now occupies the spot of card number 6
+the card that was displaced by the 6 of spades was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 2
+the card that was displaced by the jack of spades was the 2 of diamonds
+the 2 of diamonds was needed
+The 2 of diamonds now occupies the spot of card number 2
+the card that was displaced by the 2 of diamonds was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 3
+the card that was displaced by the jack of spades was the 3 of spades
+the 3 of spades was needed
+The 3 of spades now occupies the spot of card number 3
+the card that was displaced by the 3 of spades was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 5
+the card that was displaced by the jack of spades was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 9
+the card that was displaced by the jack of spades was the 9 of hearts
+the 9 of hearts was needed
+The 9 of hearts now occupies the spot of card number 9
+the card that was displaced by the 9 of hearts was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 10
+the card that was displaced by the jack of spades was the 10 of clubs
+the 10 of clubs was needed
+The 10 of clubs now occupies the spot of card number 10
+the card that was displaced by the 10 of clubs was the jack of spades
+the jack of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 29 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 9 cards
+        Player 2 has 9 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the 6 of clubs was drawn from the deck
+the 6 of clubs was needed
+The 6 of clubs now occupies the spot of card number 6
+the card that was displaced by the 6 of clubs was the 6 of hearts
+the 6 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 7, 8, 9]
+There are 33 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the 6 of hearts was drawn from the discard pile
+the 6 of hearts was needed
+The 6 of hearts now occupies the spot of card number 6
+the card that was displaced by the 6 of hearts was the 6 of spades
+the 6 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 7, 8, 9]
+There are 33 cards in the deck
+There are 1 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 7, 8, 9]
+
+the 2 of hearts was drawn from the deck
+the 2 of hearts was needed
+The 2 of hearts now occupies the spot of card number 2
+the card that was displaced by the 2 of hearts was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 7, 8, 9]
+There are 32 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 7, 8, 9]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of diamonds
+the 2 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 3, 4, 5, 7, 8, 9]
+There are 32 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 7, 8, 9]
+
+the 3 of spades was drawn from the deck
+the 3 of spades was needed
+The 3 of spades now occupies the spot of card number 3
+the card that was displaced by the 3 of spades was the 3 of hearts
+the 3 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 4, 5, 7, 8, 9]
+There are 31 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 7, 8, 9]
+
+the 3 of hearts was drawn from the discard pile
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the 3 of spades
+the 3 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 4, 5, 7, 8, 9]
+There are 31 cards in the deck
+There are 3 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 4, 5, 7, 8, 9]
+
+the ace of spades was drawn from the deck
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the ace of spades
+the ace of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 7, 8, 9]
+There are 30 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 4, 5, 7, 8, 9]
+
+the ace of spades was drawn from the discard pile
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the ace of diamonds
+the ace of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 5, 7, 8, 9]
+There are 30 cards in the deck
+There are 4 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 7, 8, 9]
+
+the 10 of diamonds was drawn from the deck
+the 10 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 7, 8, 9]
+There are 29 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5, 7, 8, 9]
+
+the 8 of diamonds was drawn from the deck
+the 8 of diamonds was needed
+The 8 of diamonds now occupies the spot of card number 8
+the card that was displaced by the 8 of diamonds was the 8 of hearts
+the 8 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 7, 9]
+There are 28 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 7, 8, 9]
+
+the 8 of hearts was drawn from the discard pile
+the 8 of hearts was needed
+The 8 of hearts now occupies the spot of card number 8
+the card that was displaced by the 8 of hearts was the 8 of spades
+the 8 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 5, 7, 9]
+There are 28 cards in the deck
+There are 6 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5, 7, 9]
+
+the 9 of diamonds was drawn from the deck
+the 9 of diamonds was needed
+The 9 of diamonds now occupies the spot of card number 9
+the card that was displaced by the 9 of diamonds was the 9 of hearts
+the 9 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 7]
+There are 27 cards in the deck
+There are 7 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 7, 9]
+
+the 9 of hearts was drawn from the discard pile
+the 9 of hearts was needed
+The 9 of hearts now occupies the spot of card number 9
+the card that was displaced by the 9 of hearts was the 9 of clubs
+the 9 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 5, 7]
+There are 27 cards in the deck
+There are 7 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5, 7]
+
+the ace of clubs was drawn from the deck
+the ace of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 7]
+There are 26 cards in the deck
+There are 8 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 7]
+
+the 7 of diamonds was drawn from the deck
+the 7 of diamonds was needed
+The 7 of diamonds now occupies the spot of card number 7
+the card that was displaced by the 7 of diamonds was the 7 of spades
+the 7 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5]
+There are 25 cards in the deck
+There are 9 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5, 7]
+
+the 7 of spades was drawn from the discard pile
+the 7 of spades was needed
+The 7 of spades now occupies the spot of card number 7
+the card that was displaced by the 7 of spades was the 7 of diamonds
+the 7 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 5]
+There are 25 cards in the deck
+There are 9 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5]
+
+the king of spades was drawn from the deck
+the king of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5]
+There are 24 cards in the deck
+There are 10 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5]
+
+the queen of clubs was drawn from the deck
+the queen of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5]
+There are 23 cards in the deck
+There are 11 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5]
+
+the 4 of hearts was drawn from the deck
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the 4 of clubs
+the 4 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [5]
+There are 22 cards in the deck
+There are 12 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5]
+
+the 4 of clubs was drawn from the discard pile
+the 4 of clubs was needed
+The 4 of clubs now occupies the spot of card number 4
+the card that was displaced by the 4 of clubs was the 4 of hearts
+the 4 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [5]
+There are 22 cards in the deck
+There are 12 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [5]
+
+the king of diamonds was drawn from the deck
+the king of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [5]
+There are 21 cards in the deck
+There are 13 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [5]
+
+the 10 of spades was drawn from the deck
+the 10 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [5]
+There are 20 cards in the deck
+There are 14 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [5]
+
+the 2 of diamonds was drawn from the deck
+the 2 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [5]
+There are 19 cards in the deck
+There are 15 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [5]
+
+the 3 of hearts was drawn from the deck
+the 3 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [5]
+There are 18 cards in the deck
+There are 16 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [5]
+
+the 4 of diamonds was drawn from the deck
+the 4 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [5]
+There are 17 cards in the deck
+There are 17 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [5]
+
+the jack of spades was drawn from the deck
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 5
+the card that was displaced by the jack of spades was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of spades
+the jack of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 16 cards in the deck
+There are 18 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 9 cards
+        Player 2 has 8 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the 8 of diamonds was drawn from the deck
+the 8 of diamonds was needed
+The 8 of diamonds now occupies the spot of card number 8
+the card that was displaced by the 8 of diamonds was the 8 of hearts
+the 8 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7, 9]
+There are 34 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8]
+
+the 8 of hearts was drawn from the discard pile
+the 8 of hearts was needed
+The 8 of hearts now occupies the spot of card number 8
+the card that was displaced by the 8 of hearts was the 8 of diamonds
+the 8 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7]
+There are 34 cards in the deck
+There are 1 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 9]
+
+the 2 of clubs was drawn from the deck
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of hearts
+the 2 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7, 9]
+There are 33 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the 2 of hearts was drawn from the discard pile
+the 2 of hearts was needed
+The 2 of hearts now occupies the spot of card number 2
+the card that was displaced by the 2 of hearts was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7]
+There are 33 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7, 9]
+
+the 2 of spades was drawn from the deck
+the 2 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7, 9]
+There are 32 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7]
+
+the 3 of diamonds was drawn from the deck
+the 3 of diamonds was needed
+The 3 of diamonds now occupies the spot of card number 3
+the card that was displaced by the 3 of diamonds was the 3 of hearts
+the 3 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 4, 5, 6, 7]
+There are 31 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7, 9]
+
+the 3 of hearts was drawn from the discard pile
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the 3 of spades
+the 3 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 4, 5, 6, 7, 9]
+There are 31 cards in the deck
+There are 4 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 4, 5, 6, 7]
+
+the 5 of diamonds was drawn from the deck
+the 5 of diamonds was needed
+The 5 of diamonds now occupies the spot of card number 5
+the card that was displaced by the 5 of diamonds was the 5 of clubs
+the 5 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 4, 6, 7]
+There are 30 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 4, 5, 6, 7, 9]
+
+the 5 of clubs was drawn from the discard pile
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the 5 of spades
+the 5 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 4, 6, 7, 9]
+There are 30 cards in the deck
+There are 5 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 4, 6, 7]
+
+the jack of spades was drawn from the deck
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 1
+the card that was displaced by the jack of spades was the ace of spades
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 4
+the card that was displaced by the jack of spades was the 4 of clubs
+the 4 of clubs was needed
+The 4 of clubs now occupies the spot of card number 4
+the card that was displaced by the 4 of clubs was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 6
+the card that was displaced by the jack of spades was the 6 of hearts
+the 6 of hearts was needed
+The 6 of hearts now occupies the spot of card number 6
+the card that was displaced by the 6 of hearts was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 7
+the card that was displaced by the jack of spades was the 7 of spades
+the 7 of spades was needed
+The 7 of spades now occupies the spot of card number 7
+the card that was displaced by the 7 of spades was the jack of spades
+the jack of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 29 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 9 cards
+        Player 2 has 7 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the 2 of spades was drawn from the deck
+the 2 of spades was needed
+The 2 of spades now occupies the spot of card number 2
+the card that was displaced by the 2 of spades was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7, 8, 9]
+There are 35 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of hearts
+the 2 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7]
+There are 35 cards in the deck
+There are 1 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7, 8, 9]
+
+the ace of hearts was drawn from the deck
+the ace of hearts was needed
+The ace of hearts now occupies the spot of card number 1
+the card that was displaced by the ace of hearts was the ace of spades
+the ace of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6, 7, 8, 9]
+There are 34 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 6, 7]
+
+the ace of spades was drawn from the discard pile
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the ace of spades
+the ace of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [3, 4, 5, 6, 7]
+There are 34 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6, 7, 8, 9]
+
+the 7 of diamonds was drawn from the deck
+the 7 of diamonds was needed
+The 7 of diamonds now occupies the spot of card number 7
+the card that was displaced by the 7 of diamonds was the 7 of diamonds
+the 7 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6, 8, 9]
+There are 33 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6, 7]
+
+the 7 of diamonds was drawn from the discard pile
+the 7 of diamonds was needed
+The 7 of diamonds now occupies the spot of card number 7
+the card that was displaced by the 7 of diamonds was the 7 of spades
+the 7 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [3, 4, 5, 6]
+There are 33 cards in the deck
+There are 3 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6, 8, 9]
+
+the queen of spades was drawn from the deck
+the queen of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6, 8, 9]
+There are 32 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6]
+
+the queen of hearts was drawn from the deck
+the queen of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6]
+There are 31 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6, 8, 9]
+
+the 8 of clubs was drawn from the deck
+the 8 of clubs was needed
+The 8 of clubs now occupies the spot of card number 8
+the card that was displaced by the 8 of clubs was the 8 of diamonds
+the 8 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6, 9]
+There are 30 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6]
+
+the 8 of spades was drawn from the deck
+the 8 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [3, 4, 5, 6]
+There are 29 cards in the deck
+There are 7 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6, 9]
+
+the 3 of hearts was drawn from the deck
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the 3 of hearts
+the 3 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 6, 9]
+There are 28 cards in the deck
+There are 8 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [3, 4, 5, 6]
+
+the 3 of hearts was drawn from the discard pile
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the 3 of diamonds
+the 3 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 5, 6]
+There are 28 cards in the deck
+There are 8 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 6, 9]
+
+the 8 of hearts was drawn from the deck
+the 8 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 6, 9]
+There are 27 cards in the deck
+There are 9 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5, 6]
+
+the 2 of hearts was drawn from the deck
+the 2 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 6]
+There are 26 cards in the deck
+There are 10 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 6, 9]
+
+the 2 of clubs was drawn from the deck
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5, 6, 9]
+There are 25 cards in the deck
+There are 11 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 5, 6]
+
+the 5 of clubs was drawn from the deck
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the 5 of diamonds
+the 5 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 6]
+There are 24 cards in the deck
+There are 12 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 5, 6, 9]
+
+the 5 of diamonds was drawn from the discard pile
+the 5 of diamonds was needed
+The 5 of diamonds now occupies the spot of card number 5
+the card that was displaced by the 5 of diamonds was the 5 of clubs
+the 5 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 6, 9]
+There are 24 cards in the deck
+There are 12 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 6]
+
+the 9 of diamonds was drawn from the deck
+the 9 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 6]
+There are 23 cards in the deck
+There are 13 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 6, 9]
+
+the 9 of diamonds was drawn from the discard pile
+the 9 of diamonds was needed
+The 9 of diamonds now occupies the spot of card number 9
+the card that was displaced by the 9 of diamonds was the 9 of hearts
+the 9 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 6]
+There are 23 cards in the deck
+There are 13 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4, 6]
+
+the 6 of diamonds was drawn from the deck
+the 6 of diamonds was needed
+The 6 of diamonds now occupies the spot of card number 6
+the card that was displaced by the 6 of diamonds was the 6 of hearts
+the 6 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4]
+There are 22 cards in the deck
+There are 14 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 6]
+
+the 6 of hearts was drawn from the discard pile
+the 6 of hearts was needed
+The 6 of hearts now occupies the spot of card number 6
+the card that was displaced by the 6 of hearts was the 6 of clubs
+the 6 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [4]
+There are 22 cards in the deck
+There are 14 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4]
+
+the ace of clubs was drawn from the deck
+the ace of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4]
+There are 21 cards in the deck
+There are 15 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4]
+
+the ace of spades was drawn from the deck
+the ace of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4]
+There are 20 cards in the deck
+There are 16 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4]
+
+the 4 of clubs was drawn from the deck
+the 4 of clubs was needed
+The 4 of clubs now occupies the spot of card number 4
+the card that was displaced by the 4 of clubs was the 4 of clubs
+the 4 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 19 cards in the deck
+There are 17 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 9 cards
+        Player 2 has 6 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the 7 of hearts was drawn from the deck
+the 7 of hearts was needed
+The 7 of hearts now occupies the spot of card number 7
+the card that was displaced by the 7 of hearts was the 7 of diamonds
+the 7 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 8, 9]
+There are 36 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6]
+
+the queen of hearts was drawn from the deck
+the queen of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6]
+There are 35 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 8, 9]
+
+the 7 of spades was drawn from the deck
+the 7 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 8, 9]
+There are 34 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6]
+
+the 6 of spades was drawn from the deck
+the 6 of spades was needed
+The 6 of spades now occupies the spot of card number 6
+the card that was displaced by the 6 of spades was the 6 of diamonds
+the 6 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 33 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 8, 9]
+
+the 6 of diamonds was drawn from the discard pile
+the 6 of diamonds was needed
+The 6 of diamonds now occupies the spot of card number 6
+the card that was displaced by the 6 of diamonds was the 6 of hearts
+the 6 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 8, 9]
+There are 33 cards in the deck
+There are 4 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 8 of spades was drawn from the deck
+the 8 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 32 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 8, 9]
+
+the 8 of spades was drawn from the discard pile
+the 8 of spades was needed
+The 8 of spades now occupies the spot of card number 8
+the card that was displaced by the 8 of spades was the 8 of clubs
+the 8 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 9]
+There are 32 cards in the deck
+There are 5 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the ace of clubs was drawn from the deck
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the ace of spades
+the ace of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 3, 4, 5]
+There are 31 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 9]
+
+the ace of spades was drawn from the discard pile
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the ace of hearts
+the ace of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 3, 4, 5, 9]
+There are 31 cards in the deck
+There are 6 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2, 3, 4, 5]
+
+the 3 of clubs was drawn from the deck
+the 3 of clubs was needed
+The 3 of clubs now occupies the spot of card number 3
+the card that was displaced by the 3 of clubs was the 3 of hearts
+the 3 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 4, 5]
+There are 30 cards in the deck
+There are 7 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 3, 4, 5, 9]
+
+the 3 of hearts was drawn from the discard pile
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the 3 of hearts
+the 3 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 4, 5, 9]
+There are 30 cards in the deck
+There are 7 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2, 4, 5]
+
+the 5 of diamonds was drawn from the deck
+the 5 of diamonds was needed
+The 5 of diamonds now occupies the spot of card number 5
+the card that was displaced by the 5 of diamonds was the 5 of clubs
+the 5 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 4]
+There are 29 cards in the deck
+There are 8 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 4, 5, 9]
+
+the 5 of clubs was drawn from the discard pile
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the 5 of diamonds
+the 5 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 4, 9]
+There are 29 cards in the deck
+There are 8 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2, 4]
+
+the 2 of hearts was drawn from the deck
+the 2 of hearts was needed
+The 2 of hearts now occupies the spot of card number 2
+the card that was displaced by the 2 of hearts was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4]
+There are 28 cards in the deck
+There are 9 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 4, 9]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of spades
+the 2 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [4, 9]
+There are 28 cards in the deck
+There are 9 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4]
+
+the 8 of hearts was drawn from the deck
+the 8 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4]
+There are 27 cards in the deck
+There are 10 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 9]
+
+the 10 of diamonds was drawn from the deck
+the 10 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 9]
+There are 26 cards in the deck
+There are 11 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4]
+
+the queen of spades was drawn from the deck
+the queen of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4]
+There are 25 cards in the deck
+There are 12 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [4, 9]
+
+the 4 of spades was drawn from the deck
+the 4 of spades was needed
+The 4 of spades now occupies the spot of card number 4
+the card that was displaced by the 4 of spades was the 4 of hearts
+the 4 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [9]
+There are 24 cards in the deck
+There are 13 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [4]
+
+the 4 of hearts was drawn from the discard pile
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the 4 of clubs
+the 4 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: []
+There are 24 cards in the deck
+There are 13 cards in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 9 cards
+        Player 2 has 5 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+the jack of clubs was drawn from the deck
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 1
+the card that was displaced by the jack of clubs was the ace of spades
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 2
+the card that was displaced by the jack of clubs was the 2 of clubs
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 3
+the card that was displaced by the jack of clubs was the 3 of hearts
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 4
+the card that was displaced by the jack of clubs was the 4 of spades
+the 4 of spades was needed
+The 4 of spades now occupies the spot of card number 4
+the card that was displaced by the 4 of spades was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 5
+the card that was displaced by the jack of clubs was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 6
+the card that was displaced by the jack of clubs was the 6 of diamonds
+the 6 of diamonds was needed
+The 6 of diamonds now occupies the spot of card number 6
+the card that was displaced by the 6 of diamonds was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 7
+the card that was displaced by the jack of clubs was the 7 of hearts
+the 7 of hearts was needed
+The 7 of hearts now occupies the spot of card number 7
+the card that was displaced by the 7 of hearts was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 8
+the card that was displaced by the jack of clubs was the 8 of spades
+the 8 of spades was needed
+The 8 of spades now occupies the spot of card number 8
+the card that was displaced by the 8 of spades was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 9
+the card that was displaced by the jack of clubs was the 9 of diamonds
+the 9 of diamonds was needed
+The 9 of diamonds now occupies the spot of card number 9
+the card that was displaced by the 9 of diamonds was the jack of clubs
+the jack of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 37 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 1 Wins this hand
+
+        Player 1 has 8 cards
+        Player 2 has 5 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8]
+
+the queen of clubs was drawn from the deck
+the queen of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7, 8]
+There are 38 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 8 of hearts was drawn from the deck
+the 8 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 37 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7, 8]
+
+the 8 of hearts was drawn from the discard pile
+the 8 of hearts was needed
+The 8 of hearts now occupies the spot of card number 8
+the card that was displaced by the 8 of hearts was the 8 of spades
+the 8 of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7]
+There are 37 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 10 of clubs was drawn from the deck
+the 10 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 36 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the 6 of diamonds was drawn from the deck
+the 6 of diamonds was needed
+The 6 of diamonds now occupies the spot of card number 6
+the card that was displaced by the 6 of diamonds was the 6 of diamonds
+the 6 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 7]
+There are 35 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the queen of diamonds was drawn from the deck
+the queen of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 34 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 7]
+
+the 2 of diamonds was drawn from the deck
+the 2 of diamonds was needed
+The 2 of diamonds now occupies the spot of card number 2
+the card that was displaced by the 2 of diamonds was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 7]
+There are 33 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of hearts
+the 2 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 3, 4, 5]
+There are 33 cards in the deck
+There are 6 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 7]
+
+the 6 of clubs was drawn from the deck
+the 6 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5, 7]
+There are 32 cards in the deck
+There are 7 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5]
+
+the queen of hearts was drawn from the deck
+the queen of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5]
+There are 31 cards in the deck
+There are 8 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5, 7]
+
+the 7 of hearts was drawn from the deck
+the 7 of hearts was needed
+The 7 of hearts now occupies the spot of card number 7
+the card that was displaced by the 7 of hearts was the 7 of hearts
+the 7 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5]
+There are 30 cards in the deck
+There are 9 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5]
+
+the king of clubs was drawn from the deck
+the king of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5]
+There are 29 cards in the deck
+There are 10 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5]
+
+the jack of diamonds was drawn from the deck
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 1
+the card that was displaced by the jack of diamonds was the ace of spades
+the ace of spades was needed
+The ace of spades now occupies the spot of card number 1
+the card that was displaced by the ace of spades was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 3
+the card that was displaced by the jack of diamonds was the 3 of hearts
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 4
+the card that was displaced by the jack of diamonds was the 4 of spades
+the 4 of spades was needed
+The 4 of spades now occupies the spot of card number 4
+the card that was displaced by the 4 of spades was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 5
+the card that was displaced by the jack of diamonds was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of diamonds
+the jack of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 28 cards in the deck
+There are 11 card(s) in the discard pile
+|---------------|
+
+
+Player 1 Wins this hand
+
+        Player 1 has 7 cards
+        Player 2 has 5 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the king of spades was drawn from the deck
+the king of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7]
+There are 39 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 2 of clubs was drawn from the deck
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 3, 4, 5]
+There are 38 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of diamonds
+the 2 of diamonds was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 3, 4, 5, 6, 7]
+There are 38 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 3, 4, 5]
+
+the jack of spades was drawn from the deck
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 1
+the card that was displaced by the jack of spades was the ace of clubs
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 3
+the card that was displaced by the jack of spades was the 3 of clubs
+the 3 of clubs was needed
+The 3 of clubs now occupies the spot of card number 3
+the card that was displaced by the 3 of clubs was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 4
+the card that was displaced by the jack of spades was the 4 of hearts
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the jack of spades
+WILD CARD!, the jack of spades was needed!
+The jack of spades now occupies the spot of card number 5
+the card that was displaced by the jack of spades was the 5 of diamonds
+the 5 of diamonds was needed
+The 5 of diamonds now occupies the spot of card number 5
+the card that was displaced by the 5 of diamonds was the jack of spades
+the jack of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 37 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 7 cards
+        Player 2 has 4 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the king of clubs was drawn from the deck
+the king of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7]
+There are 40 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4]
+
+the king of hearts was drawn from the deck
+the king of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4]
+There are 39 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the queen of hearts was drawn from the deck
+the queen of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7]
+There are 38 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4]
+
+the ace of clubs was drawn from the deck
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the ace of clubs
+the ace of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 3, 4]
+There are 37 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the ace of clubs was drawn from the discard pile
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the ace of spades
+the ace of spades was not needed, it has been discarded
+Cards needed at the end of the turn: [2, 3, 4, 5, 6, 7]
+There are 37 cards in the deck
+There are 4 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2, 3, 4]
+
+the jack of clubs was drawn from the deck
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 2
+the card that was displaced by the jack of clubs was the 2 of clubs
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 3
+the card that was displaced by the jack of clubs was the 3 of clubs
+the 3 of clubs was needed
+The 3 of clubs now occupies the spot of card number 3
+the card that was displaced by the 3 of clubs was the jack of clubs
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 4
+the card that was displaced by the jack of clubs was the 4 of hearts
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the jack of clubs
+the jack of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 36 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 7 cards
+        Player 2 has 3 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the king of spades was drawn from the deck
+the king of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5, 6, 7]
+There are 41 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2, 3]
+
+the 3 of diamonds was drawn from the deck
+the 3 of diamonds was needed
+The 3 of diamonds now occupies the spot of card number 3
+the card that was displaced by the 3 of diamonds was the 3 of clubs
+the 3 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2]
+There are 40 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the 3 of clubs was drawn from the discard pile
+the 3 of clubs was needed
+The 3 of clubs now occupies the spot of card number 3
+the card that was displaced by the 3 of clubs was the 3 of hearts
+the 3 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 4, 5, 6, 7]
+There are 40 cards in the deck
+There are 2 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2]
+
+the 2 of hearts was drawn from the deck
+the 2 of hearts was needed
+The 2 of hearts now occupies the spot of card number 2
+the card that was displaced by the 2 of hearts was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1]
+There are 39 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 4, 5, 6, 7]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 4, 5, 6, 7]
+There are 39 cards in the deck
+There are 3 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1]
+
+the jack of clubs was drawn from the deck
+WILD CARD!, the jack of clubs was needed!
+The jack of clubs now occupies the spot of card number 1
+the card that was displaced by the jack of clubs was the ace of clubs
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the jack of clubs
+the jack of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 38 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 7 cards
+        Player 2 has 2 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6, 7]
+
+the jack of hearts was drawn from the deck
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 1
+the card that was displaced by the jack of hearts was the ace of clubs
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 2
+the card that was displaced by the jack of hearts was the 2 of clubs
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 3
+the card that was displaced by the jack of hearts was the 3 of clubs
+the 3 of clubs was needed
+The 3 of clubs now occupies the spot of card number 3
+the card that was displaced by the 3 of clubs was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 4
+the card that was displaced by the jack of hearts was the 4 of spades
+the 4 of spades was needed
+The 4 of spades now occupies the spot of card number 4
+the card that was displaced by the 4 of spades was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 5
+the card that was displaced by the jack of hearts was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 6
+the card that was displaced by the jack of hearts was the 6 of diamonds
+the 6 of diamonds was needed
+The 6 of diamonds now occupies the spot of card number 6
+the card that was displaced by the 6 of diamonds was the jack of hearts
+WILD CARD!, the jack of hearts was needed!
+The jack of hearts now occupies the spot of card number 7
+the card that was displaced by the jack of hearts was the 7 of hearts
+the 7 of hearts was needed
+The 7 of hearts now occupies the spot of card number 7
+the card that was displaced by the 7 of hearts was the jack of hearts
+the jack of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 42 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 1 Wins this hand
+
+        Player 1 has 6 cards
+        Player 2 has 2 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5, 6]
+
+the jack of diamonds was drawn from the deck
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 1
+the card that was displaced by the jack of diamonds was the ace of clubs
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 2
+the card that was displaced by the jack of diamonds was the 2 of clubs
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 3
+the card that was displaced by the jack of diamonds was the 3 of clubs
+the 3 of clubs was needed
+The 3 of clubs now occupies the spot of card number 3
+the card that was displaced by the 3 of clubs was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 4
+the card that was displaced by the jack of diamonds was the 4 of spades
+the 4 of spades was needed
+The 4 of spades now occupies the spot of card number 4
+the card that was displaced by the 4 of spades was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 5
+the card that was displaced by the jack of diamonds was the 5 of clubs
+the 5 of clubs was needed
+The 5 of clubs now occupies the spot of card number 5
+the card that was displaced by the 5 of clubs was the jack of diamonds
+WILD CARD!, the jack of diamonds was needed!
+The jack of diamonds now occupies the spot of card number 6
+the card that was displaced by the jack of diamonds was the 6 of diamonds
+the 6 of diamonds was needed
+The 6 of diamonds now occupies the spot of card number 6
+the card that was displaced by the 6 of diamonds was the jack of diamonds
+the jack of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 43 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 1 Wins this hand
+
+        Player 1 has 5 cards
+        Player 2 has 2 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the queen of diamonds was drawn from the deck
+the queen of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 44 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2]
+
+the king of clubs was drawn from the deck
+the king of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2]
+There are 43 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 8 of spades was drawn from the deck
+the 8 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 4, 5]
+There are 42 cards in the deck
+There are 3 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2]
+
+the 3 of hearts was drawn from the deck
+the 3 of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2]
+There are 41 cards in the deck
+There are 4 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 3 of hearts was drawn from the discard pile
+the 3 of hearts was needed
+The 3 of hearts now occupies the spot of card number 3
+the card that was displaced by the 3 of hearts was the 3 of clubs
+the 3 of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [1, 2, 4, 5]
+There are 41 cards in the deck
+There are 4 cards in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2]
+
+the 3 of spades was drawn from the deck
+the 3 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2]
+There are 40 cards in the deck
+There are 5 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 4, 5]
+
+the 3 of clubs was drawn from the deck
+the 3 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 4, 5]
+There are 39 cards in the deck
+There are 6 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2]
+
+the king of hearts was drawn from the deck
+the king of hearts was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2]
+There are 38 cards in the deck
+There are 7 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 4, 5]
+
+the ace of diamonds was drawn from the deck
+the ace of diamonds was needed
+The ace of diamonds now occupies the spot of card number 1
+the card that was displaced by the ace of diamonds was the ace of clubs
+the ace of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 4, 5]
+There are 37 cards in the deck
+There are 8 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1, 2]
+
+the ace of clubs was drawn from the discard pile
+the ace of clubs was needed
+The ace of clubs now occupies the spot of card number 1
+the card that was displaced by the ace of clubs was the ace of clubs
+the ace of clubs was not needed, it has been discarded
+Cards needed at the end of the turn: [2]
+There are 37 cards in the deck
+There are 8 cards in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 4, 5]
+
+the 6 of clubs was drawn from the deck
+the 6 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2, 4, 5]
+There are 36 cards in the deck
+There are 9 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2]
+
+the 9 of diamonds was drawn from the deck
+the 9 of diamonds was not needed, it has been discarded
+
+Cards needed at the end of the turn: [2]
+There are 35 cards in the deck
+There are 10 card(s) in the discard pile
+|---------------|
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [2, 4, 5]
+
+the 2 of clubs was drawn from the deck
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of clubs
+the 2 of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: [4, 5]
+There are 34 cards in the deck
+There are 11 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [2]
+
+the 2 of clubs was drawn from the discard pile
+the 2 of clubs was needed
+The 2 of clubs now occupies the spot of card number 2
+the card that was displaced by the 2 of clubs was the 2 of hearts
+the 2 of hearts was not needed, it has been discarded
+Cards needed at the end of the turn: []
+There are 34 cards in the deck
+There are 11 cards in the discard pile
+|---------------|
+
+
+Plaer 2 Wins this hand
+
+        Player 1 has 5 cards
+        Player 2 has 1 cards
+        The deck has been shuffled
+
+
+ Player 1's turn
+|---------------|
+Cards needed before turn: [1, 2, 3, 4, 5]
+
+the 4 of hearts was drawn from the deck
+the 4 of hearts was needed
+The 4 of hearts now occupies the spot of card number 4
+the card that was displaced by the 4 of hearts was the 4 of spades
+the 4 of spades was not needed, it has been discarded
+
+Cards needed at the end of the turn: [1, 2, 3, 5]
+There are 45 cards in the deck
+There are 1 card(s) in the discard pile
+|---------------|
+
+
+Player 2's turn
+|---------------|
+Cards needed before turn: [1]
+
+the ace of diamonds was drawn from the deck
+the ace of diamonds was needed
+The ace of diamonds now occupies the spot of card number 1
+the card that was displaced by the ace of diamonds was the ace of clubs
+the ace of clubs was not needed, it has been discarded
+
+Cards needed at the end of the turn: []
+There are 44 cards in the deck
+There are 2 card(s) in the discard pile
+|---------------|
+
+
+Player 2 Wins this hand
+
+Player 2 wins the game of trash!
+Would you like to run another Trash game? (y/n)
+n
+Thank you for your time.
