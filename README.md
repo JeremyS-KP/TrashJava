@@ -34,4 +34,4 @@ The intrigue of this program arose as a result of an observation that I made whe
 2. Download TrashImplementation.jar from this repository
 3. Open Terminal/command prompt and run
     ex. cd (directory)
-        Java -jar TrashImplementation.jar
+    ->    Java -jar TrashImplementation.jar
