@@ -10,7 +10,7 @@ Initially there are 10 cards dealt to each player. The player then places these 
 
 The objective of the game is to draw cards either from the deck or the discard pile and flip each card A - 10, corresponding to the card drawn. Once you place the card in its corresponding place, you look at the card displaced as a result and see if you have the unflipped card that corresponds to the card flipped. Repeating this process of displacing cards until the card displaced is one you do not need, or you satisfy all of your needs. Your turn ends when you discard a card you do not need.
 
-## Special Rules
+## Rules
 
 - Jacks are wild cards in this iteration of the game.
 - Wild cards cannot be used to advance the objective of the game, being corresponding drawn cards to face-down cards.
